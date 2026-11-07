@@ -5,7 +5,11 @@ Simple fantasy adventure, with divergent endings. Still some polishing left to d
 
 ![Main Menu](images/mainMenu.png)
 ![Story](images/story.png)
-[Watch gameplay](gameplay.mp4)
+
+
+https://github.com/user-attachments/assets/e73c41fa-fed1-4e1c-bfe2-922ec2e0e879
+
+
 
 
 ### Sound Credits
